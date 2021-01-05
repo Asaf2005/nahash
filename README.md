@@ -4,6 +4,8 @@ Remember this is version 0.0.1, if you come across any bugs please report, thank
 
 ### REQUERMENTS:
  * python 3
+ * knowing hebrew
+
 
 ## STEPS
 1. Installation
@@ -23,7 +25,7 @@ python3 /src/main.py /examples/first.nahash
 # 🐍שפת הנחש
 ### דרוש:
  * שפת פייתון גרסה 3 מותקנת
- 
+ * מומלץ: לדעת שפת פייתון, לא חובה
 # איך להשתמש:
  1. הורדה
   ```sh
