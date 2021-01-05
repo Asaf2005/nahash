@@ -15,4 +15,7 @@ git clone https://github.com/AsafSivan1/nahash
 ```
 python /src/main.py /examples/first.nahash
 ```
-
+or using python3
+```
+python3 /src/main.py /examples/first.nahash
+```
