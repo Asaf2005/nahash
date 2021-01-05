@@ -1,6 +1,9 @@
 # nahash
 Python language but in Hebrew
 
+REQUERMENTS:
+ * python 3
+
 1. Installation
 using git
 ```
