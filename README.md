@@ -20,7 +20,7 @@ or using python3
 ```
 python3 /src/main.py /examples/first.nahash
 ```
-
+<div lang="ar">
 # 🐍שפת הנחש
 ### דרוש:
  * שפת פייתון גרסה 3 מותקנת
@@ -38,3 +38,4 @@ python3 /src/main.py /examples/first.nahash
   ```
   python3 /src/main.py /examples/first.nahash
   ```
+</div>
