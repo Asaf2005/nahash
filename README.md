@@ -7,7 +7,7 @@ Python language but in Hebrew
 ## STEPS
 1. Installation
 using git
-```
+```sh
 git clone https://github.com/AsafSivan1/nahash
 ```
 
@@ -15,3 +15,4 @@ git clone https://github.com/AsafSivan1/nahash
 ```
 python /src/main.py /examples/first.nahash
 ```
+
