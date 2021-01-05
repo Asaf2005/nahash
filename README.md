@@ -1,10 +1,10 @@
 # nahash
 Python language but in Hebrew
 
-###REQUERMENTS:
+### REQUERMENTS:
  * python 3
 
-##STEPS
+## STEPS
 1. Installation
 using git
 ```
