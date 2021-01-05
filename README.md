@@ -23,6 +23,8 @@ or using python3
 python3 /src/main.py /examples/first.nahash
 ```
 # 🐍שפת הנחש
+שפת הנחש היא שפה המומלצת מאוד ללימוד קודים לכל גיל. שפת הנחש בנוייה על פייתון ומאוד דומה לפעולותיה לכן צריך הורדת פייתון מראש.
+
 ### דרוש:
  * שפת פייתון גרסה 3 מותקנת
  * מומלץ: לדעת שפת פייתון, לא חובה
