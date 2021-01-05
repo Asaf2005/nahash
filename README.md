@@ -1,5 +1,6 @@
 # nahash
 Python language but in Hebrew
+Remember this is version 0.0.1, if you come across any bugs please report, thanks!
 
 ### REQUERMENTS:
  * python 3
@@ -19,3 +20,21 @@ or using python3
 ```
 python3 /src/main.py /examples/first.nahash
 ```
+
+# 🐍שפת הנחש
+### דרוש:
+ * שפת פייתון גרסה 3 מותקנת
+ 
+# איך להשתמש:
+ 1. הורדה
+  ```sh
+  git clone https://github.com/AsafSivan1/nahash
+  ```
+ 2. הרצה
+  ```
+  python /src/main.py /examples/first.nahash
+  ```
+  או
+  ```
+  python3 /src/main.py /examples/first.nahash
+  ```
