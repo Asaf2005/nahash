@@ -42,5 +42,6 @@ python3 /src/main.py /examples/first.nahash
   python3 /src/main.py /examples/first.nahash
   ```
 
-3.`.nahash` כתיבת קוד
-על מנת לכתוב קוד תצתרכו ליצור קובת חדש עם סיומת 
+3.כתיבת קוד
+
+על מנת לכתוב קוד תצתרכו ליצור קובץ חדש עם סיומת `.nahash`   
